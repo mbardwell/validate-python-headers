@@ -1,0 +1,5 @@
+- id: validate-python-headers
+  name: validate-python-headers
+  description: "Make sure that your files always contain a proper copyright notice"
+  entry: validate_headers
+  language: python
